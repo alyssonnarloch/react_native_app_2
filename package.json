@@ -1,5 +1,5 @@
 {
-  "name": "FirstAppAuth",
+  "name": "react_native_app_2",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,6 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "firebase": "^4.8.0",
     "react": "16.0.0",
     "react-native": "0.51.0"
   },
